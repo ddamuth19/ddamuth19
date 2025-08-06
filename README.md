@@ -14,7 +14,7 @@ I’m a data science professional with a strong foundation in applied mathematic
 - Time Series & Predictive Modeling  
 - Network Analysis & Graph Models  
 
-Currently seeking opportunities where
+Currently seeking opportunities where 
 
 ---
 
@@ -30,27 +30,11 @@ Currently seeking opportunities where
 
 ## Featured Projects
 
-### [Project Name 1](github.com/yourusername/project1)
-> *Brief description*: Built a neural network to classify OCT retina images using PyTorch. Achieved 95% test accuracy with custom CNN and data augmentation.
+### [KAN for Diabates Risk Detection](https://github.com/ddamuth19/Professional-Portfolio/tree/304eae3c699cf8a29fe318d7a82e57a214cdc12d/KAN_Proj)
+> *Brief description*: Built a Kolomogrov-Arnold Network (KAN) from scratch, training the model to classify samples as high-risk for diabetes based on a number of demographic and health factors.
 
-- PyTorch, CNNs, OCTMNIST
-- Confusion matrix & learning curves included
-
----
-
-### [Project Name 2](github.com/yourusername/project2)
-> *Brief description*: Performed PCA and k-means clustering on retail customer data to discover purchasing segments.
-
-- R, PCA, Clustering
-- Includes outlier handling, visualization, and interpretation
-
----
-
-### [Project Name 3](github.com/yourusername/project3)
-> *Brief description*: Link prediction in a social network using Hierarchical Random Graphs.
-
-- NetworkX, HRG, link prediction
-- Focus on model evaluation & graph metrics
+- PyTorch, 
+- 
 
 ---
 
