@@ -21,10 +21,15 @@ I'm currently seeking full-time opportunities where I can apply my experience an
 ## Tech Stack
 
 **Languages:** Python | R | SQL  
+
 **ML/DL:** PyTorch | Scikit-learn | XGBoost | Tidymodels  
+
 **Data Viz:** Matplotlib | ggplot2 | seaborn  
+
 **Tools:** Git | Jupyter | RStudio | VSCode  
+
 **Data:** Pandas | NumPy | dplyr | tidyr | SQL
+
 **Techniques:** EDA | Predictive Modeling | Logistic Regression | Neural Networks
 
 ---
