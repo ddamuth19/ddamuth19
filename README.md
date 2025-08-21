@@ -16,6 +16,10 @@ I’m a data science professional with a strong foundation in applied mathematic
 
 I'm currently seeking full-time opportunities where I can apply my experience and continue to grow in a dynamic, technically challenging environment.
 
+This portfolio presents a concise overview of personal and professional projects I have engaged in throughout my undergraduate and graduate studies. These projects encompass a diverse range of disciplines, including Data Science, Machine Learning, Artificial Intelligence, and general Statistical Analyses.
+
+Please take your time to look around. If you have any questions about my experience or any included materials, I've included my email below. Feel free to reach out with any inquiries. Also, view my resume [here](https://github.com/user-attachments/files/21918968/Damuth_Resume_Aug25.pdf)!
+
 ---
 
 ## Tech Stack
