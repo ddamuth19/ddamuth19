@@ -37,7 +37,7 @@ Please take your time to look around. If you have any questions about my experie
 **Techniques:** EDA | Predictive Modeling | Logistic Regression | Neural Networks
 
 ---
-
+ 
 ## Featured Projects
 
 ### [KAN for Diabates Risk Detection](https://github.com/ddamuth19/KAN_Project.git)
