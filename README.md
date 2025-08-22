@@ -30,7 +30,7 @@ Please take your time to look around. If you have any questions about my experie
 
 **Data Viz:** Matplotlib | ggplot2 | seaborn  
 
-**Tools:** Git | Jupyter | RStudio | VSCode  
+**Tools:** Git | Jupyter | RStudio | VSCode | OpenAI
 
 **Data:** Pandas | NumPy | dplyr | tidyr | SQL
 
@@ -43,14 +43,18 @@ Please take your time to look around. If you have any questions about my experie
 ### [KAN for Diabates Risk Detection](https://github.com/ddamuth19/KAN_Project.git)
 > *Brief description*: Built a Kolomogrov-Arnold Network (KAN) from scratch, training the model to classify samples as high-risk for diabetes based on a number of demographic and health factors.
 
-- PyTorch, 
-- 
+### Libraries Used
+- PyTorch, sklearn, pandas, matplotlib, OpenAI, KaggleHub
+
+### Keywords
+- KAN, MLP, LLM, Bioinformatics, EDA, Predictive Modeling
 
 ---
 
-## Let's Connect
+## Let's Connect!
 
+- [Resume](https://github.com/ddamuth19/ddamuth19/blob/c07cf3e43173b9b501143ee149f0d26b85918ab6/Damuth_Resume_Aug25.pdf)
 - [LinkedIn](https://www.linkedin.com/in/dawson-damuth-003313271)  
-- Email: dawsonda@buffalo.edu 
+- Email: ddamuth@oswego.edu
 
 
