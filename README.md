@@ -59,10 +59,10 @@ Please take your time to look around. If you have any questions about my experie
 - R (R Studio)
 
 ### Libraries Used
-- 
+- `dplyr`, `tidyverse`, `caret`, `ROCR`, `broom`, `car`, `psych`, `DescTools`
 
 ### Keywords
-- 
+- Logistic Regression, Model Evaluation, ROC Curve, Confusion Matrix, Accuracy, Sensitivity, Specificity, Likelihood Ratio, Odds Ratio, Log-Odds, Variance Inflation Factor, Cross-validation
 
 ---
 
