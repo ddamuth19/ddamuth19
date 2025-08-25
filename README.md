@@ -40,7 +40,7 @@ Please take your time to look around. If you have any questions about my experie
  
 ## Featured Projects
 
-### [KAN for Diabates Risk Detection](https://github.com/ddamuth19/KAN_Project.git)
+### [KAN for Diabetes Risk Detection](https://github.com/ddamuth19/KAN_Project.git)
 > *Brief description*: Built a Kolomogrov-Arnold Network (KAN) from scratch, training the model to classify samples as high-risk for diabetes based on a number of demographic and health factors.
 
 ### Libraries Used
