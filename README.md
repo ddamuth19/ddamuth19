@@ -43,6 +43,9 @@ Please take your time to look around. If you have any questions about my experie
 ### [KAN for Diabetes Risk Detection](https://github.com/ddamuth19/KAN_Project.git)
 > *Brief description*: Built a Kolomgorov-Arnold Network (KAN) from scratch, training the model to classify samples as high-risk for diabetes based on a number of demographic and health factors.
 
+### Language(s) Used
+- Python, Jupyter Notebook
+
 ### Libraries Used
 - PyTorch, sklearn, pandas, matplotlib, OpenAI, KaggleHub
 
