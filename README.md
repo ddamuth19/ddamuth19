@@ -44,13 +44,25 @@ Please take your time to look around. If you have any questions about my experie
 > *Brief description*: Built a Kolmogorov-Arnold Network (KAN) from scratch, training the model to classify samples as high-risk for diabetes based on a number of demographic and health factors.
 
 ### Language(s) Used
-- Python, Jupyter Notebook
+- Python (Jupyter Notebook)
 
 ### Libraries Used
 - PyTorch, sklearn, pandas, matplotlib, OpenAI, KaggleHub
 
 ### Keywords
 - KAN, MLP, LLM, Bioinformatics, EDA, Predictive Modeling
+
+### [Tutoring Data Analysis](https://github.com/ddamuth19/Tutoring_Project.git)
+> *Brief description*: Self-directed project orientated toward exploratory data analysis and predictive modeling on a real-world dataset to determine if there was a significant benefit from a newly implemented program in a University's tutoring service.
+
+### Language(s) Used
+- R (R Studio)
+
+### Libraries Used
+- 
+
+### Keywords
+- 
 
 ---
 
