@@ -47,7 +47,7 @@ Please take your time to look around. If you have any questions about my experie
 - Python (Jupyter Notebook)
 
 ### Libraries Used
-- PyTorch, sklearn, pandas, matplotlib, OpenAI, KaggleHub
+- `torch`, `sklearn`, `pandas`, `matplotlib`, `openai`, `kagglehub`
 
 ### Keywords
 - KAN, MLP, LLM, Bioinformatics, EDA, Predictive Modeling
